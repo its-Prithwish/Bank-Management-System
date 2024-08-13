@@ -18,13 +18,13 @@ The Bank Management System aka ATM Simulator System is a Java-based application 
 - MySQL (Database management)
 
 
-### Application Form / SignUp Form
-
-![Screenshot (253)](https://github.com/user-attachments/assets/bbda1d7f-d2b6-4372-a888-3eb152b73cd7)
-
 ### Welcome interface
 
 ![Screenshot (251)](https://github.com/user-attachments/assets/d6b2023a-6f57-44d1-a2bf-cc12cfb34da8)
+
+### Application Form / SignUp Form
+
+![Screenshot (253)](https://github.com/user-attachments/assets/bbda1d7f-d2b6-4372-a888-3eb152b73cd7)
 
 ### Deposit Interface
 
